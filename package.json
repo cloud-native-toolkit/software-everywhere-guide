@@ -1,5 +1,5 @@
 {
-  "name": "developer-guide",
+  "name": "software-everywhere-guide",
   "version": "1.0.0",
   "description": "[![Publish](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish.yaml/badge.svg)](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish.yaml)",
   "main": "index.js",
