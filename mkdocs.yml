@@ -104,7 +104,7 @@ extra_css:
     - css/toolkit-code.css
 extra:
   generator: false
-copyright: Copyright © 2021 Cloud-Native Toolkit
+copyright: Copyright © 2022 Software Everywhere a Cloud-Native Toolkit project
 google_analytics: ['UA-153689700-1', 'cloudnativetoolkit.dev']
 nav:
   - Home: index.md

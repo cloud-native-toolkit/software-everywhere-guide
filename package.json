@@ -7,14 +7,14 @@
     "doc": "docs"
   },
   "scripts": {
-    "predev": "./dev/clean.sh devguide-dev",
-    "dev": "./dev/run.sh devguide-dev 8000",
-    "postdev": "./dev/logs.sh devguide-dev",
-    "dev:stop": "./dev/clean.sh devguide-dev",
+    "predev": "./dev/clean.sh sweguide-dev",
+    "dev": "./dev/run.sh sweguide-dev 8000",
+    "postdev": "./dev/logs.sh sweguide-dev",
+    "dev:stop": "./dev/clean.sh sweguide-dev",
     "dev:spell": "cspell docs/**/*.md",
     "dev:links": "linkchecker -f linkcheckerrc --check-extern public",
     "build": "./build.sh",
-    "dev:build": "./dev/build.sh devguide-dev",
+    "dev:build": "./dev/build.sh sweguide-dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

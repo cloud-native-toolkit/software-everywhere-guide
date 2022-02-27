@@ -2,7 +2,7 @@
 
 set -x
 
-IMAGE=${1:-devguide-dev}
+IMAGE=${1:-sweguide-dev}
 
 SCRIPT_DIR=$(cd $(dirname $0); pwd -P)
 ROOT_DIR=$(cd "${SCRIPT_DIR}/.."; pwd -P)
