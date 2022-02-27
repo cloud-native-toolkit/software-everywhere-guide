@@ -1,31 +1,34 @@
-# Cloud Native Toolkit - Developer Guide
+# IBM Software Everywhere - User Guide
 
-[![Publish](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish.yaml/badge.svg)](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish.yaml)
+[![Publish](https://github.com/cloud-native-toolkitsoftware-everywhere-guide/actions/workflows/publish.yaml/badge.svg)](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish.yaml)
 
-[![Publish Beta](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish-beta.yaml/badge.svg)](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish-beta.yaml)
+[![Publish Beta](https://github.com/cloud-native-toolkit/software-everywhere-guide/actions/workflows/publish-beta.yaml/badge.svg)](https://github.com/cloud-native-toolkit/developer-guide/actions/workflows/publish-beta.yaml)
 
-![Release](https://img.shields.io/github/v/release/cloud-native-toolkit/developer-guide)
+![Release](https://img.shields.io/github/v/release/software-everywhere-guide/developer-guide)
 
-[![Docker Repository on Quay](https://quay.io/repository/ibmgaragecloud/toolkit-guide/status "Docker Repository on Quay")](https://quay.io/repository/ibmgaragecloud/toolkit-guide)
+[![Docker Repository on Quay](https://quay.io/repository/ibmgaragecloud/software-everywhere-guide/status "Docker Repository on Quay")](https://quay.io/repository/ibmgaragecloud/toolkit-guide)
 
-The developer guide has been written to help developers get familiar with how to use to the tools to manage the full
-lifecycle of cloud native development with IBM Kubernetes Service or managed Red Hat OpenShift on IBM Cloud.
+This user guide has been written to help Sellers, Builders and SRS get familiar with how to use to the assets and tools for the Software Everywhere project.
 
-The rendered Developer Guide can be viewed here - [https://cloudnativetoolkit.dev](https://cloudnativetoolkit.dev)
+## Software Everywhere Programme
+To help accelerate adoption of IBM Hybrid Cloud Software through our Ecosystem Labs team has launched the Software Everywhere initiative. The programme is designed to build a set of Site Reliability Engineering a.ka SRE automation and tools--to manage systems, solve problems and automate operations tasks.  The automation would help IBM Partners , IBMers and Clients to accelerate consumption of IBM Technology on key Hyperscaler partnerships, specifically AWS and Azure and IBM Cloud.  
 
-*Note*: The Beta version of the Developer Guide can be found here - [https://beta.cloudnativetoolkit.dev](https://beta.cloudnativetoolkit.dev)
+
+The rendered User Guide can be viewed here - [https://ibm-software-everywhere.dev](https://ibm-software-everywhere.co)
+
+*Note*: The Beta version of the User Guide can be found here - [https://beta.ibm-software-everywhere.dev](https://beta.ibm-software-everywhere.dev)
 
 It is primarily used to document features that are currently in Beta prior to releasing those features (and the associated documentation). The content for the Beta version of the Developer Guide is sourced from the `beta` branch.
 
 ## Logos
 
 We have painstakingly documented all of the logos and icons used for 3rd party tools and the process for
-documenting their use within the Developer Guide and the broader Toolkit. The [Logo Usage page](./docs/logos) documents
+documenting their use within the User Guide and the broader set of assets. The [Logo Usage page](./docs/logos) documents
 the approved logos and the requirements for their use.
 
 ## Contributing to Docs
 
-To update and manage the Developer Guide, follow these steps in [Updating the Developer Guide](https://cloudnativetoolkit.dev/contribute/documentation/).
+To update and manage the User Guide, follow these steps in [Updating the User Guide](https://ibm-software-everywhere.dev/contribute/documentation/).
 
 ### Publish Content
 

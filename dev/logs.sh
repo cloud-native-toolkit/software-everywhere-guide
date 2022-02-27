@@ -2,5 +2,5 @@
 
 set -x
 
-NAME=${1:-devguide-dev}
+NAME=${1:-sweguide-dev}
 docker logs -f ${NAME}

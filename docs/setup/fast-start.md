@@ -75,7 +75,7 @@ Select the option you want for your cluster, then follow the instructions.
     2. Navigate to the Catalog using the link at the top of the IBM Cloud web console
     3. Search for OpenShift and select RedHat OpenShift on IBM Cloud
     4. Create a cluster.  On the options page:
-        - If working in your company account check with your account admin about the OpenShift licence entitlement, and make the appropriate entitlement choice.  Otherwise, leave the OCP entitlement option at the default to purchase the needed licenses
+        - If working in your company account check with your account admin about the OpenShift license entitlement, and make the appropriate entitlement choice.  Otherwise, leave the OCP entitlement option at the default to purchase the needed licenses
         - Leave the Infrastructure as **Classic**
         - If you have a preferred Resource Group you need to use, select it here.  Check with your account admin to verify the resource group you should use if working in a company account.  Otherwise, leave as **Default**
         - Select your preferred Geography.  It is best to select the closest geography to your location
